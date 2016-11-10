@@ -1,4 +1,4 @@
-package db_query1_console;
+package db.query1.console;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Scanner;
 
-public class DB_Query1_console {
+public class DBQuery1Console {
 	
 	public static void main(String[] args) {
 

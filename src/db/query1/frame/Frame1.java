@@ -1,4 +1,4 @@
-package db_query1_frame;
+package db.query1.frame;
 
 import java.awt.Container;
 import java.awt.Font;
@@ -43,6 +43,5 @@ public class Frame1 extends JFrame {
 		setVisible(true);
 		setAlwaysOnTop(true);
 		setLocation(900, 200);
-		;
 	}
 }

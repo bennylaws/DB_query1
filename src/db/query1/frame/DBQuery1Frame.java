@@ -1,4 +1,4 @@
-package db_query1_frame;
+package db.query1.frame;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -8,7 +8,7 @@ import java.sql.Statement;
 
 import javax.swing.JOptionPane;
 
-public class DB_Query1_Frame {
+public class DBQuery1Frame {
 	
 	public static void main(String[] args) {
 
